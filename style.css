@@ -328,8 +328,8 @@
     border: solid 3px rgba(0,0,0,.1);
     border-radius: 100%;
     position: absolute;
-    top: calc(-10% - 3px);
-    left: calc(-10% - 3px);
+    top: calc(-8% - 3px);
+    left: calc(-8% - 3px);
   }
 /*-------------------------------------------------------------------------------------*/
 

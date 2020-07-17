@@ -276,10 +276,11 @@
   }
  */
  .card-carousel {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+    position: relative; 
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(252, 252, 252); 
+
   }
    
   .card-carousel .my-card {
@@ -298,10 +299,6 @@
     border-radius: 30px;
   }
    
-  .card-carousel .my-card:hover img{
-    width: 125px;
-  }
-
   .card-carousel .my-card:after {
     content: '';
     position: absolute;
@@ -320,7 +317,6 @@
     transform: translateX(-50%) translateY(-50%);
     font-size: 3rem;
     font-weight: 300;
-    color: #fff;
   }
    
    
@@ -341,11 +337,6 @@
     pointer-events: auto;
     transition: 1s;
   }
-
-.my-card img{
-    width: 120px;
-    transition: 0.4s linear;
-}
 
 
 /*-------------------------------------------------------------------------------------*/

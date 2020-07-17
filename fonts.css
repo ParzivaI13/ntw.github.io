@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Assurant";
+    src: url("../fonts/Assurant/Assurant.eot");
+    src: url("../fonts/Assurant/Assurant.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Assurant/Assurant.woff") format("woff"),
+    url("../fonts/Assurant/Assurant.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Comfortaa";
+    src: url("../fonts/Comfortaa/Comfortaa.eot");
+    src: url("../fonts/Comfortaa/Comfortaa.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Comfortaa/Comfortaa.woff") format("woff"),
+    url("../fonts/Comfortaa/Comfortaa.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Kurale";
+    src: url("../fonts/Kurale/Kurale-Regular.eot");
+    src: url("../fonts/Kurale/Kurale-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Kurale/Kurale-Regular.woff") format("woff"),
+    url("../fonts/Kurale/Kurale-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

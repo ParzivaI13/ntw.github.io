@@ -81,7 +81,7 @@
 	 z-index: 1;
 	 border-radius: 8px 8px 0 0;
 }
- @media (max-width: 800px) {
+ @media (max-width: 850px) {
     .nav-indicator {
        visibility: hidden;
        font-size: 20px;

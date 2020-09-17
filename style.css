@@ -24,9 +24,11 @@
 /* ------------------------------------------------------ */
 
 *{
-    outline: none !important
+    outline: none !important;
     }
-
+body{
+  background-color: rgb(252, 252, 252) !important;
+}
 
 #imga, #imgb{
     width: 100%;
